@@ -1,6 +1,5 @@
  -👋 Hi, I’m @maria-hilote
  -👀 I’m interested in Data Analysis
- -🌱 I’m currently learning Python, Apache Cassandra, SQL-CQL
  -📫 How to reach me : https://www.linkedin.com/in/hilote-maria/
 
 <!---
