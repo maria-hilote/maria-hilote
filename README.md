@@ -1,5 +1,6 @@
  -👋 Hi, I’m @maria-hilote
- -👀 I’m interested in Data Analysis
+ -👀 I’m interested in Data Analysis, Python, NoSQL
+ -✨ Working as a Data Analyst and Reporting Specialist for Link Financial Services
  -📫 How to reach me : https://www.linkedin.com/in/hilote-maria/
 
 <!---
